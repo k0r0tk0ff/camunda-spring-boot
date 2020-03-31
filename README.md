@@ -1,6 +1,8 @@
-# camunda BPM - Getting Started with camunda BPM and Spring Boot
+# camunda BPM - Движок Camunda использующий H2 Database.  
+Честно содран с оффсайта, но добавлена обработка rest запросов 
 
-This Repository contains the example Spring Boot application for the guide at [camunda.org](http://camunda.org/get-started/spring-boot.html).
+This Repository contains the example Spring Boot application for the guide at   
+[camunda.org](http://camunda.org/get-started/spring-boot.html).
 
 Every step of the tutorial was tagged in this repository. You can jump to the final state of each step
 by the following command:
